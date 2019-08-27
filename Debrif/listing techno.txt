@@ -1,0 +1,26 @@
+techno Projet site vitrine
+
+Organisation:
+-Git
+-Trello
+-Google drive
+-Otlook
+-Veille commerciale (TF1/TF1PUB/M6PUB...)
+
+Créaction Wireframe Mockflow
+Reunion digital organiser par moi même
+Membre impliqué dans le projet:
+Julien ->Tuteur/Responsable Digital
+Olivia->Chef du market tv
+Anthony->Market 
+Victoria->Assitant market
+
+Techno digital:
+-Visual code studio
+-Html5
+-CS3
+-JS
+-CMS (Wordpress)
+-Hotjar plugin compatible avec cms
+-PHP /Mysql
+
