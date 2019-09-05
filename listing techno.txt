@@ -21,6 +21,9 @@ Techno digital:
 -CS3
 -JS
 -CMS (Wordpress)
--Hotjar plugin compatible avec cms
+-Hotjar plugin
 -PHP /Mysql
-
+-NodeJs
+-Extention
+-Plugin
+-Templeta
